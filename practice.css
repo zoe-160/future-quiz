@@ -1,0 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css"
+href="mystyle.css">
+</head>
+div {
+    background: linear-gradient(to bottom, #ccffff 0%, #ffffff 100%);
+}
